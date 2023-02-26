@@ -1,1 +1,1 @@
-# kovrado.online
+# sample web page
